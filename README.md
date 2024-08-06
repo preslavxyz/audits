@@ -5,6 +5,7 @@ Preslav Vasilev also known as *preslavxyz* is a Security Researcher in the Web 3
  - CodeHawks Profile: [preslavxyz](https://www.codehawks.com/profile/clxvlkgdd0006g4l447xhq89d)
  - Cantina Profile: [preslavxyz](https://cantina.xyz/u/preslavxyz)
  - HatsFinance Profile: [preslavxyz](https://app.hats.finance/profile/preslavxyz)
+ - AuditOne Profile: [preslavxyz](https://app.auditone.io/publicprofile/preslavxyz)
 ## Contact
   - X (formerly Twitter): [@preslavxyz](https://twitter.com/preslavxyz)
   - Telegram: [@preslavxyz](https://t.me/preslavxyz)
