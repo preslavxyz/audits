@@ -1,5 +1,5 @@
 # About
-Preslav Vasilev also known as *preslavxyz* is a security researcher in the Web 3.0 ecosystem.
+Preslav Vasilev also known as *preslavxyz* is a Security Researcher in the Web 3.0 ecosystem.
  - Code4rena Profile: [preslavxyz](https://code4rena.com/@preslavxyz)
  - Sherlock Profile: [preslavxyz](https://audits.sherlock.xyz/watson/preslavxyz)
  - CodeHawks Profile: [preslavxyz](https://www.codehawks.com/profile/clxvlkgdd0006g4l447xhq89d)
